@@ -1,0 +1,2 @@
+flibusta-calibre-store-plugin
+=============================
